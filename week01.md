@@ -61,19 +61,19 @@
 - Move(the “creature”)(physical way or digital way?)
 - - - -
 ## sketch
-![](final%20project%20record/Paper.%E6%83%B3%E6%B3%95.1.png)
+![](pic/version_alpha.png)
 (Previous one)</br>
-![](final%20project%20record/Paper.%E6%83%B3%E6%B3%95.3.png)
+![](pic/whale1.png)
 (One way interact with the "whale”)</br>
-![](final%20project%20record/Paper.%E6%83%B3%E6%B3%95.5.png)
+![](pic/insertdevice.png)
 (Input the “creature”)</br>
-![](final%20project%20record/Paper.%E6%83%B3%E6%B3%95.6.png)
+![](pic/fishesgroup.png)
 (Fish group)</br>
-![](final%20project%20record/Paper.%E6%83%B3%E6%B3%95.7.png)
+![](pic/gesturedetection.png)
 (One way to control the "creature”)</br>
-![](final%20project%20record/Paper.%E6%83%B3%E6%B3%95.8.png)
+![](pic/scene.png)
 (How the installation looks like)</br>
-![](final%20project%20record/Paper.%E6%83%B3%E6%B3%95.9.png)
+![](pic/version_beta.png)
 (Recent version 2019年11月3日 下午9:28 )</br>
 - - - -
 ## concept
