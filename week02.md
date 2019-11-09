@@ -33,8 +33,8 @@ At 1.0 this input been cancelled. There two reason:
 - - - -
 Flow chart:
 ![](pic/gesture.png)
-![](pic/warterlevel.png)
-![](pic/charger.png)
+![](pic/waterlevel.png)
+![](pic/charge.png)
 - - - -
 ## schedule
 - week01- cameup the idea and sketch
