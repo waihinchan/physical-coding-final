@@ -48,8 +48,8 @@
 ### input
 - clay
 - gesture
-- ~~~light~~~
-- ~~~humidity~~~
+- ~~~light
+- ~~~humidity
 - water level
 - touch
 - - - -
