@@ -1,7 +1,7 @@
 # week02
-#final
+
 ## version 1.0
-![](week02/Paper.%E6%83%B3%E6%B3%95.11.png)
+![](pic/1.0.png)
 (version1.0)
 ### concept
 Continue the progress “**Thinking**” of week01, I came up the second one. This is the scene.
@@ -32,9 +32,9 @@ At 1.0 this input been cancelled. There two reason:
 - light (light on when the fishes prey the energy(current) from the whale, also happened at any energy transform process/)
 - - - -
 Flow chart:
-![](week02/Paper.%E6%83%B3%E6%B3%95.13.png)
-![](week02/Paper.%E6%83%B3%E6%B3%95.12.png)
-![](week02/Paper.%E6%83%B3%E6%B3%95.14.png)
+![](pic/gesture.png)
+![](pic/warterlevel.png)
+![](pic/charger.png)
 - - - -
 ## schedule
 - week01- cameup the idea and sketch
