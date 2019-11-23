@@ -1,5 +1,5 @@
 # week04
-#final
+
 # review
 This week i tested some basic component.</br>
 There were the LED Band, the Hall effect sensors, the capacitor, including the reed switch.</br>
@@ -37,6 +37,9 @@ void colorWipe(uint32_t c, uint8_t wait) {
 ```
 - - - -
 After tested, i found that I can separate the led band into single led, then solder them together, this mean I can control the length of the led band. Basically in my installation, each led band will up to no more than 8 single led, I will control the space between the each led so reach to the best vision effect.
+![](pic/ledband(non-addressable).HEIC)
+![](pic/ledband_test.JPG)
+![](pic/ledband_test2.JPG)
 
 Hall effect sensors test:
 [halleffectsensor on Vimeo](https://vimeo.com/375100928)
@@ -54,7 +57,7 @@ Waiting for the latch Hall effect sensors to build the basic minimum model.</br>
 The basic minimum model function would be when the magnet closed to the Hall effect sensors, the whale part’s led will extinguish, then one of the other creatures’ led will light on. Then the led band which at the second layer connected from the whale part to that creature part would light on.</br>
 This mean when the Hall effect sensors been triggered, there are one led turn off and another led turn off, also one led band would turn on.</br>
 - - - -
-![](week04/basicmodel_schematic.png)
+![](pic/basicmodel_schematic.png)
 
 
 
