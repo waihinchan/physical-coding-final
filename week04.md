@@ -37,7 +37,7 @@ void colorWipe(uint32_t c, uint8_t wait) {
 ```
 - - - -
 After tested, i found that I can separate the led band into single led, then solder them together, this mean I can control the length of the led band. Basically in my installation, each led band will up to no more than 8 single led, I will control the space between the each led so reach to the best vision effect.
-![](pic/ledband(non-addressable).HEIC)
+![](pic/ledband(non-addressable).jpg)
 ![](pic/ledband_test.JPG)
 ![](pic/ledband_test2.JPG)
 
