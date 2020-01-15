@@ -1,4 +1,4 @@
-# week05
+# week06
 
 Date: Dec 17, 2019
 Tags: done
@@ -17,7 +17,7 @@ And here is the process i made.
 
 And i succeed. But one things i found very interesting was, the brightness of the LED seems not as normal. Which mean the clay have a certain resistor value and that seems to be relevant to how much oil and lemon juice i put in it, or maybe relevant to how big the clay it self. Any way this mean i found a new thing as an new input.
 
-![week05/Untitled.png](week05/Untitled.png)
+![week05/Untitled.png](pic/clay.png)
 
 ## Buzzer
 
