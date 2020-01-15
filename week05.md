@@ -26,7 +26,7 @@ I used the model US1881 here. Here is how it working.
 The resistor value depends on how easy the LED can be light up.
 
 When the hall effect sensor detect the magnet, the digital out will out put high voltage, then the LED will be turn off as now the current going from pin1 to pin2.
-
+some hall effect sensor using guide: [HALL EFFECT SENSOR](https://maker.pro/arduino/tutorial/how-to-use-a-hall-effect-sensor-with-arduino)
 ## NOT GATE
 
 To get there, i built the NOT GATE.
