@@ -21,7 +21,7 @@ I used the latching hall effect sensor here because once the "energy transform" 
 
 I used the model US1881 here. Here is how it working.
 
-![week05/Untitled.png](week05/Untitled.png)
+![week05/Untitled.png](pic/HALLEFFECTSENSOR.png)
 
 The resistor value depends on how easy the LED can be light up.
 
@@ -35,7 +35,7 @@ As we know that in the CPU, there are many many many Triode formed the whole CPU
 
 Here is the schematic how to use a NPN transistor to build a NOT GATE.
 
-![week05/Untitled%201.png](week05/Untitled%201.png)
+![week05/Untitled%201.png](pic/NOTGATE.png)
 
 Made the LED parallel with the NPN transistor, the BASE connect to the voltage you want to read. Here i connect to the LED of the hall effect sensor.
 
