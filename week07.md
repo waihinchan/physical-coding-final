@@ -9,13 +9,13 @@ i used the play dough to build my case. I want to combine the creature and the m
 
 Anyway i built it. I pre-digged some hole inside the case so that i can put the hall effect sensor or other element go though it. Also i digged many big hole to make sure the light inside can penetrate the clay.
 
-![week07/IMG_1011.heic](pic/IMG_1011.heic)
+![week07/IMG_1011.heic](pic/IMG_1011.jpg)
 
-![week07/IMG_3100.heic](pic/IMG_3100.heic)
+![week07/IMG_3100.heic](pic/IMG_3100.jpg)
 
-![week07/IMG_5094.heic](pic/IMG_5094.heic)
+![week07/IMG_5094.heic](pic/IMG_5094.jpg)
 
-![week07/IMG_5501.heic](pic/IMG_5501.heic)
+![week07/IMG_5501.heic](pic/IMG_5501.jpg)
 
 ---
 
